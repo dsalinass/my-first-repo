@@ -1,4 +1,4 @@
-# hello
+# My first repository
 
 # My git journey
 
